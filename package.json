@@ -29,7 +29,7 @@
     "@angular/router": "^6.0.0",
     "@webcomponents/custom-elements": "^1.1.0",
     "bootstrap": "^3.3.7",
-    "core-js": "^2.5.4",
+    "core-js": "^2.6.12",
     "rxjs": "6.0.0",
     "zone.js": "^0.8.24"
   },
